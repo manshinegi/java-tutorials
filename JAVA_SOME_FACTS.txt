@@ -1,0 +1,39 @@
+JAVA - Sun Microsystems. | SCJP
+Oracle bought Sun Microsystems | OCJP
+
+Oracle made Java open source.
+
+Google community forked Java and made android.
+
+Latest Version - Java 14,
+
+This Book - Java 6
+
+JDK - Java Development Kit, It has Java API.
+
+It has JRE & JVM.
+
+JRE - It stands for Java Runtime Evrionment.
+     - it enables to run your java program.
+     - it consits of libraries , classes & JVM.
+
+JVM - It stands for Java Virtual Machine.
+    - it needs to be translated into machine language.
+    - JVM has compiler. ,
+    - Compiler complies java code, and transforms into machine readable format.
+    - Machine then reads the format and executes it.
+    - JVM has some architecture.
+
+Name of Java Compiler = javac.
+
+javac Sample.java => It converted java code, into class file.
+                    => Class file consits of byte code.
+
+
+Q. Contents of Class File. And how it is processed by JVM ?
+
+In Java, A class has variables & Methods.
+
+Objects are instance of a class. It's created by new Operator
+
+Variables & Methods are of two types, => Instance & Static.
