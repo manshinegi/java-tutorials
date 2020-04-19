@@ -37,3 +37,7 @@ In Java, A class has variables & Methods.
 Objects are instance of a class. It's created by new Operator
 
 Variables & Methods are of two types, => Instance & Static.
+
+Default Values for variables (primitves, objects) will not be assumed inside methods.
+Hence, It will throw compiler error.
+
